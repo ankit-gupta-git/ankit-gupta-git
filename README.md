@@ -1,9 +1,48 @@
-<h1 align="center">Hi 👋, I'm Ankit Kumar Gupta</h1>
-<h3 align="center">Full-Stack Developer | AIML Enthusiast | Builder 🚀</h3>
+<h1 align="center">Hi there👋, I'm Ankit Kumar Gupta</h1>
+<h3 align="center">💻 B.Tech CS-AIML | Full Stack Developer | Cloud Enthusiast | ML Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankitdev-xyz&label=Profile%20Views&color=159ccb&style=flat" alt="views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Welcome+to+my+GitHub!;I'm+a+passionate+tech+learner.;Let's+build+something+awesome+💫" />
 </p>
+
+---
+
+## 👨‍💻 About Me :
+
+- 🎓 Final Year B.Tech in Information Technology  
+- 🏫 Quantum University, Roorkee
+- 🔭 Currently working on: **AIML Projects, MERN Stack & Real-world Hackathon Projects**
+- 🌱 Learning: **React**, **Next.js**, **Cloud (Azure/AWS)**, **System Design**, **Machine Learning**  
+- 🔍 I’m looking for help with **Advanced DSA + AI Optimization**
+- 📬 Reach me: [ankitkumargupta752@gmail.com](mailto:ankitkumargupta752@gmail.com)  
+- ⚡ Fun fact: *I love building products that solve real world problems!*
+
+---
+
+### 🧠 Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,azure,firebase,figma" />
+</p>
+
+---
+
+### 🚀 My Projects
+
+| 📌 Project | 🛠️ Description |
+|-----------|----------------|
+| 🌐 **Portfolio v1** | Modern React + Vite portfolio with dark/light mode, Framer Motion animations & Gemini AI chat assistant. |
+| 💬 **NeuraChat (Real-time Chat App)** | Multi-user real-time chat with WebSockets, secure auth, typing indicators & AI replies via OpenAI API. |
+| 🎬 **Napster - Movie Recommendation System** | Personalized movie suggestions with dynamic filtering, API-based updates & optimized performance. |
+| 🏡 **Wanderlust (Airbnb-like Platform)** | MERN-based property listing + booking system with secure user authentication. |
+
+---
+
+### 📈 LeetCode Journey
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ankitguptaa17?theme=dark&font=baloo&animation=true)](https://leetcode.com/u/ankitguptaa17/)
+
+🔸 Actively solving DSA problems to strengthen algorithms, problem-solving skills, and interview preparation.
 
 ---
 
