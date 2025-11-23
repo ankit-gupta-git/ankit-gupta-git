@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me :
 
-- 🎓 Final Year B.Tech in Information Technology  
+- 🎓 Final Year B.Tech in CS-AIML  
 - 🏫 Quantum University, Roorkee
 - 🔭 Currently working on: **AIML Projects, MERN Stack & Real-world Hackathon Projects**
 - 🌱 Learning: **React**, **Next.js**, **Cloud (Azure/AWS)**, **System Design**, **Machine Learning**  
