@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me :
+### 👨‍💻 About Me :
 
 - 🎓 Final Year B.Tech in CS-AIML  
 - 🏫 Quantum University, Roorkee
@@ -22,7 +22,7 @@
 ### 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,github,vscode,azure,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,aws,github,vscode,azure,firebase" />
 </p>
 
 ---
@@ -47,7 +47,7 @@
 ---
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -96,17 +96,34 @@
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ankit-gupta-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankitguptaa17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamankit-gupta)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ankitguptablogs)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankitgupta_79)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitkumargupta752@gmail.com)
+### 🌐 Socials:
+<p align="center">
+  <a href="https://instagram.com/ankitguptaa17">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/iamankit-gupta">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@ankitguptablogs">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
+  </a>
+  <a href="https://x.com/ankitgupta_79">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:ankitkumargupta752@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/ankitgupta17/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white" />
+  </a>
+
+</p>
+
 
 ---
 
