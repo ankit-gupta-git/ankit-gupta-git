@@ -87,7 +87,6 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  [![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit-gupta-git)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=ankit-gupta-git&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-gupta-git&layout=compact&theme=tokyonight" alt="Top Languages" />
