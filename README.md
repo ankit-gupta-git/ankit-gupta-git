@@ -9,8 +9,10 @@
 
 ### 👨‍💻 About Me :
 
-- 🎓 Final Year B.Tech in CS-AIML  
+- 🎓 B.Tech CSE (AIML) | 2023–2027  
 - 🏫 Quantum University, Roorkee
+- 🏆 Hackathon Winner | 5x Hackathon Finalist  
+- 🧩 Solved 500+ DSA Problems (200+ LeetCode)
 - 🔭 Currently working on: **AIML Projects, MERN Stack & Real-world Hackathon Projects**
 - 🌱 Learning: **React**, **Next.js**, **Cloud (Azure/AWS)**, **System Design**, **Machine Learning**  
 - 🔍 I’m looking for help with **Advanced DSA + AI Optimization**
@@ -27,14 +29,15 @@
 
 ---
 
-### 🚀 My Projects
+### 🚀 Featured Projects
 
 | 📌 Project | 🛠️ Description |
 |-----------|----------------|
-| 🌐 **Portfolio v1** | Modern React + Vite portfolio with dark/light mode, Framer Motion animations & Gemini AI chat assistant. |
-| 💬 **NeuraChat (Real-time Chat App)** | Multi-user real-time chat with WebSockets, secure auth, typing indicators & AI replies via OpenAI API. |
-| 🎬 **Napster - Movie Recommendation System** | Personalized movie suggestions with dynamic filtering, API-based updates & optimized performance. |
-| 🏡 **Wanderlust (Airbnb-like Platform)** | MERN-based property listing + booking system with secure user authentication. |
+| 🤖 **AllySupport – AI Customer Support SaaS** | Built a multi-tenant AI chatbot platform that provides 24/7 automated support and can be embedded into any website using a single script. Implemented secure authentication, custom knowledge bases, and LLM-powered contextual responses. <br> **Tech:** Next.js, TypeScript, Gemini AI, MongoDB |
+| 🧠 **Hirrd – AI-Powered Job Matching Platform** | Developed an AI-driven job portal with semantic resume–job matching using NLP. Implemented ATS-style scoring, skill gap analysis, and recruiter dashboards to improve hiring decisions. <br> **Tech:** React.js, Supabase (PostgreSQL), Clerk Auth, LLM APIs |
+| 🎬 **Napster – AI Movie Recommendation System** | Built a movie discovery platform using LLM agents to generate personalized recommendations. Implemented automated workflows using LangGraph and integrated external APIs for real-time movie insights. <br> **Tech:** Next.js, LangChain, REST APIs, YouTube Data API |
+| 🏡 **Roamara – Full Stack Airbnb-like Platform** | Designed a full-stack property listing and booking platform with role-based authentication and secure booking flows. Implemented REST APIs and handled real-world user interactions during development testing. <br> **Tech:** MongoDB, Express.js, React.js, Node.js, JWT |
+| 🏥 **Swastha – Real-Time Healthcare Monitoring System** | Hackathon-winning system that combines IoT patient monitoring with an NLP chatbot for medical queries. Built responsive real-time dashboards and integrated backend services for health data tracking. <br> **Tech:** React.js, Node.js, MongoDB, Firebase, Arduino, NLP |
 
 ---
 
