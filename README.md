@@ -1,27 +1,40 @@
-<h1 align="center">Hi there👋, I'm Ankit Kumar Gupta</h1>
-<h3 align="center">💻 B.Tech CS-AIML | Full Stack Developer | Cloud Enthusiast | ML Explorer</h3>
+<h1 align="center">Hi👋, I'm Ankit Kumar Gupta</h1>
+
+<h3 align="center">
+Full Stack Developer • AI Product Builder • Cloud Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=Welcome+to+my+GitHub!;I'm+a+passionate+tech+learner.;Let's+build+something+awesome+💫" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;Full+Stack+Development+with+Modern+Web+Technologies;Exploring+Cloud%2C+System+Design+and+Scalable+Architectures;Always+Learning+and+Shipping" />
+</p>
+
+<p align="center">
+  <a href="https://ankitbuilds.vercel.app">Portfolio</a> •
+  <a href="https://linkedin.com/in/iamankit-gupta">LinkedIn</a> •
+  <a href="mailto:ankitkumargupta752@gmail.com">Email</a> •
+  <a href="https://leetcode.com/ankitguptaa17/">LeetCode</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me :
+## About Me
 
-- 🎓 B.Tech CSE (AIML) | 2023–2027  
-- 🏫 Quantum University, Roorkee
-- 🏆 Hackathon Winner | 5x Hackathon Finalist  
-- 🧩 Solved 500+ DSA Problems (200+ LeetCode)
-- 🔭 Currently working on: **AIML Projects, MERN Stack & Real-world Hackathon Projects**
-- 🌱 Learning: **React**, **Next.js**, **Cloud (Azure/AWS)**, **System Design**, **Machine Learning**  
-- 🔍 I’m looking for help with **Advanced DSA + AI Optimization**
-- 📬 Reach me: [ankitkumargupta752@gmail.com](mailto:ankitkumargupta752@gmail.com)  
-- ⚡ Fun fact: *I love building products that solve real world problems!*
+I'm a Computer Science undergraduate specializing in AI & ML with a strong interest in building production-oriented software.
+
+My work focuses on:
+
+- AI-Powered Applications
+- Full Stack Development
+- Agentic AI Systems
+- Cloud Technologies
+- Backend Engineering
+- Scalable Software Architecture
+
+Currently exploring distributed systems, cloud infrastructure, system design, and production-grade AI applications.
 
 ---
 
-### 🧠 Skills & Tools
+## Skills & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,git,aws,github,vscode,azure,firebase" />
@@ -29,94 +42,156 @@
 
 ---
 
-### 🚀 Featured Projects
+## Technical Expertise
 
-| 📌 Project | 🛠️ Description |
-|-----------|----------------|
-| 🤖 **AllySupport – AI Customer Support SaaS** | Built a multi-tenant AI chatbot platform that provides 24/7 automated support and can be embedded into any website using a single script. Implemented secure authentication, custom knowledge bases, and LLM-powered contextual responses. <br> **Tech:** Next.js, TypeScript, Gemini AI, MongoDB |
-| 🧠 **Hirrd – AI-Powered Job Matching Platform** | Developed an AI-driven job portal with semantic resume–job matching using NLP. Implemented ATS-style scoring, skill gap analysis, and recruiter dashboards to improve hiring decisions. <br> **Tech:** React.js, Supabase (PostgreSQL), Clerk Auth, LLM APIs |
-| 🎬 **Napster – AI Movie Recommendation System** | Built a movie discovery platform using LLM agents to generate personalized recommendations. Implemented automated workflows using LangGraph and integrated external APIs for real-time movie insights. <br> **Tech:** Next.js, LangChain, REST APIs, YouTube Data API |
-| 🏡 **Roamara – Full Stack Airbnb-like Platform** | Designed a full-stack property listing and booking platform with role-based authentication and secure booking flows. Implemented REST APIs and handled real-world user interactions during development testing. <br> **Tech:** MongoDB, Express.js, React.js, Node.js, JWT |
-| 🏥 **Swastha – Real-Time Healthcare Monitoring System** | Hackathon-winning system that combines IoT patient monitoring with an NLP chatbot for medical queries. Built responsive real-time dashboards and integrated backend services for health data tracking. <br> **Tech:** React.js, Node.js, MongoDB, Firebase, Arduino, NLP |
+### Languages
+`JavaScript` `TypeScript` `Java` `Python` `C`
+
+### Frontend
+`React.js` `Next.js` `Vite` `Tailwind CSS` `Redux Toolkit`
+
+### Backend
+`Node.js` `Express.js` `FastAPI` `GraphQL` `REST APIs` `Prisma`
+
+### Databases
+`PostgreSQL` `MongoDB` `MySQL` `Redis` `Pinecone`
+
+### Cloud & DevOps
+`AWS (EC2, S3)` `Docker` `Kubernetes` `GitHub Actions` `GitLab CI/CD`
+
+### Computer fundamentals
+`Data Structures & Algorithms`
+`OOP`
+`Operating Systems`
+`DBMS`
+`Computer Networks`
+`System Design`
 
 ---
 
-### 📈 LeetCode Journey
+## Featured Projects
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ankitguptaa17?theme=dark&font=baloo&animation=true)](https://leetcode.com/u/ankitguptaa17/)
+### Forge AI — Agentic Application Development Platform
 
-🔸 Actively solving DSA problems to strengthen algorithms, problem-solving skills, and interview preparation.
+Built an AI platform that generates React applications from natural language prompts with live preview and code streaming.
+
+**Highlights**
+- Autonomous multi-file code refinement
+- Persistent workspace management
+- Secure rate limiting
+- Real-time code streaming
+
+**Tech:** Next.js, Gemini AI, PostgreSQL, Cline SDK
 
 ---
 
+### AllySupport — AI Customer Support SaaS
 
-### 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+Built a multi-tenant AI customer support platform delivering contextual support and embeddable chat widgets.
 
-### 📊 GitHub Stats:
+**Highlights**
+- Multi-tenant architecture
+- Dynamic knowledge bases
+- Secure authentication
+- Redis-based request throttling
+
+**Tech:** Next.js, TypeScript, MongoDB, Redis, Scalekit
+
+---
+
+### Hirrd — AI-Powered Job Portal
+
+AI-driven hiring platform with resume-job matching, ATS-style scoring, and recruiter workflows.
+
+**Highlights**
+- Resume-job matching engine
+- Skill gap analysis
+- Recruiter dashboard
+- Role-based workflows
+
+**Tech:** React.js, PostgreSQL, Supabase, Clerk, LLM APIs
+
+---
+
+### Horizon — AI Interview Preparation Platform
+
+AI-powered interview simulator with resume-based personalization and analytics.
+
+**Highlights**
+- Personalized interview generation
+- Performance analytics
+- Mock interview workflows
+- AI-powered evaluation
+
+**Tech:** MERN Stack, Firebase, Stripe, Redux Toolkit
+
+---
+
+## Experience
+
+### Frontend Development Intern — DiGrows
+
+- Built scalable React.js interfaces serving 500+ active users
+- Developed reusable component systems across multiple modules
+- Optimized frontend performance through efficient rendering and data fetching
+- Integrated REST APIs using TanStack Query
+- Worked in a startup-style collaborative development environment
+
+---
+
+## Achievements
+
+- Winner — Annual Tech Fest Hackathon ([Certificate](https://drive.google.com/file/d/1v59ZqExnFulLg3lcRDj4F7PWkq4vfBhC/view?usp=sharing))
+- 5× Hackathon Finalist
+- AWS Cloud Quest — Cloud Practitioner ([Credential](https://www.credly.com/badges/566b7d1e-d638-4683-9e21-1f8030729d67/public_url))
+- AWS Cloud Quest — Generative AI Practitioner ([Credential](https://www.credly.com/badges/c91025eb-5e35-462f-bb49-4ad0a4d6fea9/public_url))
+- Solved 500+ DSA problems
+- 280+ LeetCode problems solved
+
+---
+
+## Current Focus
+
+- Agentic AI Systems
+- Distributed Systems
+- Cloud Architecture
+- Backend Engineering
+- System Design
+- Open Source Contributions
+
+---
+
+## LeetCode
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankit-gupta-git&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-gupta-git&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=ankit-gupta-git&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://leetcode.com/u/ankitguptaa17/">
+    <img src="https://leetcard.jacoblin.cool/ankitguptaa17?theme=dark&font=baloo&animation=true" />
+  </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankit-gupta-git&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankit-gupta-git&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-gupta-git&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankit-gupta-git&theme=tokyonight" />
+</p>
 
 ---
 
-### 🌐 Socials:
+## Connect
+
 <p align="center">
-  <a href="https://instagram.com/ankitguptaa17">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
-  </a>
   <a href="https://linkedin.com/in/iamankit-gupta">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@ankitguptablogs">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
-  </a>
-  <a href="https://x.com/ankitgupta_79">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ankitkumargupta752@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
@@ -124,12 +199,13 @@
   <a href="https://leetcode.com/ankitguptaa17/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white" />
   </a>
-
+  <a href="https://medium.com/@ankitguptablogs">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
+  </a>
 </p>
-
 
 ---
 
-<p align="center"><b>🚀 Thanks for visiting! Let's learn, build, and grow together. 💫</b></p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  Building useful software, learning continuously, and growing as an engineer.
+</p>
