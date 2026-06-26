@@ -9,9 +9,10 @@ Full Stack Developer • AI Product Builder • Cloud Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://ankitbuilds.vercel.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/iamankit-gupta">LinkedIn</a> •
-  <a href="mailto:ankitkumargupta752@gmail.com">Email</a> •
+  <a href="https://ankitbuilds.vercel.app">Portfolio</a> |
+  <a href="https://drive.google.com/file/d/1VSDsphVfNGgTigWoql8lBjk8K1y-3Q-C/view?usp=sharing">Resume</a> |
+  <a href="https://linkedin.com/in/iamankit-gupta">LinkedIn</a> |
+  <a href="mailto:ankitkumargupta752@gmail.com">Email</a> |
   <a href="https://leetcode.com/ankitguptaa17/">LeetCode</a>
 </p>
 
@@ -66,64 +67,6 @@ Currently exploring distributed systems, cloud infrastructure, system design, an
 `DBMS`
 `Computer Networks`
 `System Design`
-
----
-
-## Featured Projects
-
-### Forge AI — Agentic Application Development Platform
-
-Built an AI platform that generates React applications from natural language prompts with live preview and code streaming.
-
-**Highlights**
-- Autonomous multi-file code refinement
-- Persistent workspace management
-- Secure rate limiting
-- Real-time code streaming
-
-**Tech:** Next.js, Gemini AI, PostgreSQL, Cline SDK
-
----
-
-### AllySupport — AI Customer Support SaaS
-
-Built a multi-tenant AI customer support platform delivering contextual support and embeddable chat widgets.
-
-**Highlights**
-- Multi-tenant architecture
-- Dynamic knowledge bases
-- Secure authentication
-- Redis-based request throttling
-
-**Tech:** Next.js, TypeScript, MongoDB, Redis, Scalekit
-
----
-
-### Hirrd — AI-Powered Job Portal
-
-AI-driven hiring platform with resume-job matching, ATS-style scoring, and recruiter workflows.
-
-**Highlights**
-- Resume-job matching engine
-- Skill gap analysis
-- Recruiter dashboard
-- Role-based workflows
-
-**Tech:** React.js, PostgreSQL, Supabase, Clerk, LLM APIs
-
----
-
-### Horizon — AI Interview Preparation Platform
-
-AI-powered interview simulator with resume-based personalization and analytics.
-
-**Highlights**
-- Personalized interview generation
-- Performance analytics
-- Mock interview workflows
-- AI-powered evaluation
-
-**Tech:** MERN Stack, Firebase, Stripe, Redux Toolkit
 
 ---
 
