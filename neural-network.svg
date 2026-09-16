@@ -1,0 +1,107 @@
+<svg width="720" height="280" viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="720" height="280" rx="18" fill="#0D1117"/>
+
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Connections -->
+  <g stroke="url(#line)" stroke-opacity=".35" stroke-width="1.5">
+
+    <line x1="90" y1="50" x2="220" y2="40"/>
+    <line x1="90" y1="50" x2="220" y2="100"/>
+    <line x1="90" y1="110" x2="220" y2="160"/>
+    <line x1="90" y1="170" x2="220" y2="220"/>
+
+    <line x1="220" y1="40" x2="360" y2="70"/>
+    <line x1="220" y1="100" x2="360" y2="140"/>
+    <line x1="220" y1="160" x2="360" y2="210"/>
+    <line x1="220" y1="220" x2="360" y2="140"/>
+
+    <line x1="360" y1="70" x2="500" y2="40"/>
+    <line x1="360" y1="140" x2="500" y2="120"/>
+    <line x1="360" y1="210" x2="500" y2="210"/>
+
+    <line x1="500" y1="40" x2="630" y2="100"/>
+    <line x1="500" y1="120" x2="630" y2="170"/>
+    <line x1="500" y1="210" x2="630" y2="100"/>
+
+  </g>
+
+  <!-- Animated particles -->
+  <g fill="#7DD3FC">
+
+    <circle r="3">
+      <animateMotion dur="6s" repeatCount="indefinite"
+        path="M90 50 L220 100 L360 140 L500 120 L630 170"/>
+    </circle>
+
+    <circle r="3">
+      <animateMotion dur="5s" repeatCount="indefinite"
+        path="M90 170 L220 220 L360 210 L500 210 L630 100"/>
+    </circle>
+
+    <circle r="2">
+      <animateMotion dur="4s" repeatCount="indefinite"
+        path="M220 40 L360 70 L500 40"/>
+    </circle>
+
+  </g>
+
+  <!-- Nodes -->
+  <g fill="#E0F2FE" filter="url(#glow)">
+
+    <g>
+      <circle cx="90" cy="50" r="7">
+        <animate attributeName="r" values="7;9;7" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="90" cy="110" r="7">
+        <animate attributeName="r" values="7;9;7" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="90" cy="170" r="7">
+        <animate attributeName="r" values="7;9;7" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="90" cy="230" r="7">
+        <animate attributeName="r" values="7;9;7" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <g>
+      <circle cx="220" cy="40" r="7"/>
+      <circle cx="220" cy="100" r="7"/>
+      <circle cx="220" cy="160" r="7"/>
+      <circle cx="220" cy="220" r="7"/>
+    </g>
+
+    <g>
+      <circle cx="360" cy="70" r="7"/>
+      <circle cx="360" cy="140" r="7"/>
+      <circle cx="360" cy="210" r="7"/>
+    </g>
+
+    <g>
+      <circle cx="500" cy="40" r="7"/>
+      <circle cx="500" cy="120" r="7"/>
+      <circle cx="500" cy="210" r="7"/>
+    </g>
+
+    <g>
+      <circle cx="630" cy="100" r="8"/>
+      <circle cx="630" cy="170" r="8"/>
+    </g>
+
+  </g>
+
+</svg>
