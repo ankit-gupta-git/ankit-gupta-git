@@ -1,10 +1,5 @@
 <svg width="720" height="280" viewBox="0 0 720 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="100%" stop-color="#111827"/>
-    </linearGradient>
-
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#38BDF8"/>
       <stop offset="50%" stop-color="#60A5FA"/>
@@ -24,9 +19,6 @@
       </feMerge>
     </filter>
   </defs>
-
-  <!-- Background -->
-  <rect width="720" height="280" rx="18" fill="url(#bg)"/>
 
   <!-- Connections -->
   <g stroke="url(#line)" stroke-width="1.4" stroke-opacity="0.35">
@@ -49,7 +41,6 @@
     <line x1="520" y1="105" x2="640" y2="165"/>
     <line x1="520" y1="210" x2="640" y2="95"/>
 
-    <!-- extra mesh -->
     <line x1="200" y1="35" x2="360" y2="140"/>
     <line x1="200" y1="95" x2="360" y2="55"/>
     <line x1="200" y1="150" x2="360" y2="140"/>
@@ -76,7 +67,7 @@
     </circle>
   </g>
 
-  <!-- Pulsing center glow -->
+  <!-- Center glow -->
   <circle cx="360" cy="140" r="22" fill="url(#pulse)" opacity="0.55">
     <animate attributeName="r" values="18;28;18" dur="2.8s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.3;0.7;0.3" dur="2.8s" repeatCount="indefinite"/>
@@ -84,7 +75,6 @@
 
   <!-- Nodes -->
   <g filter="url(#glow)">
-    <!-- Left -->
     <g fill="#E0F2FE">
       <circle cx="80" cy="50" r="6"/>
       <circle cx="80" cy="105" r="6"/>
@@ -92,7 +82,6 @@
       <circle cx="80" cy="225" r="6"/>
     </g>
 
-    <!-- Layer 2 -->
     <g fill="#7DD3FC">
       <circle cx="200" cy="35" r="7"/>
       <circle cx="200" cy="95" r="7"/>
@@ -100,28 +89,25 @@
       <circle cx="200" cy="210" r="7"/>
     </g>
 
-    <!-- Center -->
     <g fill="#BAE6FD">
       <circle cx="360" cy="55" r="6"/>
       <circle cx="360" cy="140" r="8"/>
       <circle cx="360" cy="225" r="6"/>
     </g>
 
-    <!-- Layer 4 -->
     <g fill="#A78BFA">
       <circle cx="520" cy="40" r="7"/>
       <circle cx="520" cy="105" r="7"/>
       <circle cx="520" cy="210" r="7"/>
     </g>
 
-    <!-- Output -->
     <g fill="#E9D5FF">
       <circle cx="640" cy="95" r="8"/>
       <circle cx="640" cy="165" r="8"/>
     </g>
   </g>
 
-  <!-- Node pulse animation -->
+  <!-- Node pulse -->
   <g fill="#FFFFFF" opacity="0.9">
     <circle cx="200" cy="35" r="2">
       <animate attributeName="r" values="2;4;2" dur="2s" repeatCount="indefinite"/>
