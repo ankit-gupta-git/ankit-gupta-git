@@ -8,28 +8,24 @@ Full Stack Developer • AI Product Builder • Cloud Enthusiast
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;Full+Stack+Development+with+Modern+Web+Technologies;Exploring+Cloud%2C+System+Design+and+Scalable+Architectures;Always+Learning+and+Shipping" />
 </p>
 
-<p align="center">
-  <a href="https://ankitbuilds.vercel.app">Portfolio</a> |
-  <a href="https://drive.google.com/file/d/1VSDsphVfNGgTigWoql8lBjk8K1y-3Q-C/view?usp=sharing">Resume</a> |
-  <a href="https://linkedin.com/in/iamankit-gupta">LinkedIn</a> |
-  <a href="mailto:ankitkumargupta752@gmail.com">Email</a> |
-  <a href="https://leetcode.com/ankitguptaa17/">LeetCode</a>
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://ankitbuilds.in)
+[![Resume](https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1VSDsphVfNGgTigWoql8lBjk8K1y-3Q-C/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamankit-gupta)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_X_PROFILE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ankitguptaa17/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitkumargupta752@gmail.com)
+
+</div>
 
 ---
 
 ## About Me
 
-I'm a Computer Science undergraduate specializing in AI & ML with a strong interest in building production-oriented software.
+I'm a B.Tech CSE (AI & ML) student passionate about building **production-ready AI products** rather than prototype demos.
 
-My work focuses on:
-
-- AI-Powered Applications
-- Full Stack Development
-- Agentic AI Systems
-- Cloud Technologies
-- Backend Engineering
-- Scalable Software Architecture
+My interests include **Agentic AI, RAG, scalable backend systems, cloud infrastructure, and full-stack engineering**.
 
 Currently exploring distributed systems, cloud infrastructure, system design, and production-grade AI applications.
 
