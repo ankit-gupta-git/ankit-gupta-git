@@ -1,11 +1,15 @@
-<h1 align="center">Hi👋, I'm Ankit Kumar Gupta</h1>
+<h1 align="center">Hi 👋, I'm Ankit Kumar Gupta</h1>
+
+<p align="center">
+  <img src="./neural-network.svg" width="720" alt="Neural Network Animation"/>
+</p>
 
 <h3 align="center">
-Full Stack Developer • AI Product Builder • Cloud Enthusiast
+  AI Software Engineer • Full Stack Developer • Agentic AI
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;Full+Stack+Development+with+Modern+Web+Technologies;Exploring+Cloud%2C+System+Design+and+Scalable+Architectures;Always+Learning+and+Shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Production+AI+Products;Full+Stack+Development+with+Next.js+%26+FastAPI;Exploring+Cloud%2C+System+Design+%26+Distributed+Systems;Always+Learning+and+Shipping" alt="Typing SVG"/>
 </p>
 
 <div align="center">
