@@ -88,8 +88,9 @@ Currently exploring distributed systems, cloud infrastructure, system design, an
 - 5× Hackathon Finalist
 - AWS Cloud Quest — Cloud Practitioner ([Credential](https://www.credly.com/badges/566b7d1e-d638-4683-9e21-1f8030729d67/public_url))
 - AWS Cloud Quest — Generative AI Practitioner ([Credential](https://www.credly.com/badges/c91025eb-5e35-462f-bb49-4ad0a4d6fea9/public_url))
+- freeCodeCamp — Back End Development and APIs ([Certificate](https://freecodecamp.org/certification/ankitgupta_79/back-end-development-and-apis-v9))
 - Solved 500+ DSA problems
-- 280+ LeetCode problems solved
+- 400+ LeetCode problems solved
 
 ---
 
